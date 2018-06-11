@@ -53,7 +53,7 @@ $ go run ./samples.go
 
 ## Credits
 
-This repository is maintained by Péter Szilágyi ([@karalabe](https://github.com/karalabe)), but authorship of the images belongs to the original [avatars-api-middleware](https://github.com/adorableio/avatars-api-middleware) project and its artist, Kelly Rauwerdink ([@missingdink](https://github.com/missingdink)).
+This repository is maintained by Péter Szilágyi ([@karalabe](https://github.com/karalabe)), but authorship of the images belongs to the original [avatars-api-middleware](https://github.com/adorableio/avatars-api-middleware) project and its artists, Kelly Rauwerdink ([@missingdink](https://github.com/missingdink)) and Kevin Altman ([@itsthatguy](https://github.com/itsthatguy)).
 
 ## License
 
