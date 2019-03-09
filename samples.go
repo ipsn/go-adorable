@@ -81,7 +81,7 @@ func main() {
 	for _, args := range cmds {
 		cmd := exec.Command(args[0], append(args[1:], html.Name())...)
 		if cmd.Start() == nil {
-			time.Sleep(3 * time.Second)
+			time.Sleep(30 * time.Second)
 			os.Remove(html.Name())
 			break
 		}
